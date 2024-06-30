@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+body{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+    color: rgb(66,69,86);
+    background-image: url('http://i.imgur.com/BJP2Q1j.jpg');
+    background-size: cover;
+    font-weight: 100;
+}
+
+h1{
+    margin: 30px 25px;
+    font-size: 200px;
+    line-height: 400px;
+    font-weight: 280;
+    font-family: 'Montserrat', sans-serif;
+    padding: 30px 50px;
+}
+
+p {
+    margin: 16px;
+    font-size: 50px;
+}
+
+
+button {
+    line-height: 2.0;
+    border:3px solid white;
+    font-size: 30px;
+    color: rgb(66,69,86);
+    padding: 5px 20px;
+    background: rgba(255,255,255,1.0);
+    border-radius: 5px;
+    opacity: 0.8;
+    font-family: 'Lato', sans-serif;
+    border-radius:10px;
+    margin: 100px;
+}
+
